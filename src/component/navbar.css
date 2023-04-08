@@ -1,0 +1,22 @@
+
+.nav {
+    position: fixed;
+    height: 55px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    transition: .3s ease-in;
+    
+    overflow: hidden;
+    background: #000;
+   
+    padding-bottom: 12px;
+    border-bottom: 3px solid var(--secondary-color);
+    background: rgb(111, 110, 110);
+/*     
+    background: #49606e ; */
+    /* background: rgb(123, 138, 148); */
+
+}
+
